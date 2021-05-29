@@ -207,7 +207,7 @@ public class MainView extends LitTemplate {
     private UserForm userForm;
 
     @Id("users-grid")
-    private UsersGrid usersGrid;
+    private Grid usersGrid;
 }
 ----
 
